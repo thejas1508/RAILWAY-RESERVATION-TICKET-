@@ -1,0 +1,18 @@
+WELCOME TO RAILWAY TICKET RESERVATION
+1.Booking 
+2.Availability Checking 
+3.Cancel
+4.Chart
+5. Exit
+
+Enter your option: 2 
+Availability Checking 
+1.first class
+2.second class 
+3.third class 
+
+Enter the Option3 
+Seat Available
+
+Enter your option: 5
+THANK YOU VISIT AGAIN!!
